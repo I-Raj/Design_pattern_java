@@ -1,6 +1,6 @@
+//Factory design pattern
 package StarbucksCoffee;
-
-public abstract class Coffee {
+public abstract class coffee {
 	
 	protected abstract double getcost();
 	
